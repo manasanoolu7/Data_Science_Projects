@@ -15,9 +15,9 @@ In this data, we will see how other features depend on price by analysing throug
 
 ## Dataset
 
-<b> CarAssignment.csv file contains following features:<b>
+<b> CarAssignment.csv file contains following features:</b>
   
-<i>car_ID,symboling,wheelbase, aspiration, fueltype, CarName, carbody, carlength, doornumber, carwidth, carheight, curbweight, enginesize, boreratio, stroke, compressionratio, horsepower, peakrpm, citympg, highwaympg,price<i>
+<i>car_ID,symboling,wheelbase, aspiration, fueltype, CarName, carbody, carlength, doornumber, carwidth, carheight, curbweight, enginesize, boreratio, stroke, compressionratio, horsepower, peakrpm, citympg, highwaympg,price</i>
   
 ## Observations
 
