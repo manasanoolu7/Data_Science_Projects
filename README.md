@@ -1,4 +1,4 @@
-# Car Prize Analysis
+# Car Prize Prediction
 
 ## Problem Definition  
 
@@ -28,4 +28,14 @@ In this data, we will see how other features depend on price by analysing throug
 3. I have considered features of type int and float.Now, the total number features are 16 (after feature engineering).
 
 4. Finally, Linear Regression is applied on final dataset to find the accuracy.
+
+## Author Details
+
+<b>Name</b>:  Manasa Noolu
+
+<b>Organization</b>:  Becode
+
+<b>email</b>:  manasadevinoolu@gmail.com
+
+<b>linkedin profile</b>:  linkedin.com/in/manasanoolu
 
