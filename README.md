@@ -37,5 +37,5 @@ In this data, we will see how other features depend on price by analysing throug
 
 <b>email</b>:  manasadevinoolu@gmail.com
 
-<b>linkedin profile</b>:  linkedin.com/in/manasanoolu
+<b>linkedin profile</b>:  (linkedin.com/in/manasanoolu)
 
