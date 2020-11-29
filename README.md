@@ -2,7 +2,7 @@
 
 ## Problem Definition  
 
-Car Price Analysis is most demanded project under machine learning to predict the cost based on many factors like engine type, used/new, year etc.
+Car Price Prediction is most demanded project under machine learning to predict the cost based on many factors like engine type, used/new, year etc.
 In this data, we will see how other features depend on price by analysing through feature engineering and models. 
 
 ## Objectives
